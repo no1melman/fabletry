@@ -1,0 +1,19 @@
+{
+  "name": "fabletry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Program.fs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Callum Linington",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^4.4.2"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
